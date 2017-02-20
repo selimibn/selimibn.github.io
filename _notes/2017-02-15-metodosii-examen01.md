@@ -47,7 +47,7 @@ de modo que también $\psi_n$ es una base.
 
 **Problema 2**: *Muestre que los eigenvalores $\omega$ de un operador unitario deben cumplir que $\|\omega\|^2=1.$*
 
-Sea $\phi_\omega$ el eigenvector del operador untiario $U$ con eigenvalor $\omega$. Luego
+Sea $\phi_\omega$ el eigenvector del operador unitario $U$ con eigenvalor $\omega$. Luego
 
 $$ O\phi_\omega = \omega \phi_\omega.$$
 
