@@ -43,7 +43,7 @@ Usando que $(\gamma^i)^2 = \id$, más la ciclicidad de la traza, llegamos a
 
 $$\tr( \gamma^j) = - \tr(\gamma^j ) \Rightarrow \tr( \gamma^j) = 0.$$ 
 
-Pero esa traza no es más que la suma de los eigenvalores $\omega_j$, que además son todos iguales a $\pm 1$. De moso que esto sólo puede satisfacerse si la dimensión de la matriz es par. 
+Pero esa traza no es más que la suma de los eigenvalores $\omega_j$, que además son todos iguales a $\pm 1$. De modo que esto sólo puede satisfacerse si la dimensión de la matriz es par. 
 
 
 
