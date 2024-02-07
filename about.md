@@ -43,17 +43,3 @@ sociales. *Muy ocasionalmente* escribo en éste blog.
 [artxd]: http://www.redalyc.org/articulo.oa?id=41612893006
 [dedalo]: http://issuu.com/culturagto/docs/dedalo_ii
 
-<br/>
-<hr/>
-<br/>
-<span class="contacticon center">
-	<a href="mailto:selim_gomez@uaeh.edu.mx"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com/selimibn" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com/in/selimibn" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="https://twitter.com/selimibn" target="_blank"><i class="fa fa-twitter-square"></i></a>
-</span>
-
-<div class="col three caption">
-	You can even add a little note about which of these is the best way to reach you.
-</div>
-
