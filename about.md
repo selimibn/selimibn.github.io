@@ -1,6 +1,6 @@
 ---
 layout: page
-title: acerca de mí
+title: Acerca de mí
 permalink: /about/
 ---
 
@@ -17,7 +17,6 @@ campo con derivadas de orden mayor, que desafían las técnicas
 convencionales de cuantización, y en el analisis de la estructura
 algebraica de las interacciones.
 
-
 He colaborado también en el cálculo de propiedades de mediana energía
 del espectro hadrónico de QCD, en el marco de Teoría Quiral de
 Perturbaciones, aumentada con resonancias y «mejorada» con técnicas de
@@ -25,15 +24,14 @@ unitarización. Existe interés en el uso de este tipo de técnicas de
 teorías efectivas en el contexto de la búsqueda de materia oscura y de
 construcciones más allá del Modelo Estándar.
 
+## Intereses
+
 Me interesa la divulgación, y me gusta dar charlas para un público que
-no hace ciencia. Soy parte del comité organizador
-de [La Ciencia en el Kino][kinofb]. También escribo textos de
-divulgación de vez en cuando, como [este][artxd] sobre la historia de
-las dimensiones extra en el arte de principios del siglo pasado, o el
-texto sobre el fin del universo que escribí
-para [esta revista][dedalo]. También me considero defensor de los
-valores de la Ilustración y soy frecuente polemista en redes
-sociales. *Muy ocasionalmente* escribo en éste blog.
+no hace ciencia. También escribo textos de divulgación de vez en
+cuando, como [este][artxd] sobre la historia de las dimensiones extra
+en el arte de principios del siglo pasado, o el texto sobre el fin del
+universo que escribí para [esta revista][dedalo].  *Muy
+ocasionalmente* escribo en éste blog.
 
 
 [scholar]: http://scholar.google.com.mx/citations?sortby=pubdate&amp;hl=en&amp;user=kMPe38YAAAAJ&amp;view_op=list_works
