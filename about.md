@@ -17,8 +17,6 @@ campo con derivadas de orden mayor, que desafían las técnicas
 convencionales de cuantización, y en el analisis de la estructura
 algebraica de las interacciones.
 
-{% include pageimg name="oficina.jpg" caption="" %}
-
 
 He colaborado también en el cálculo de propiedades de mediana energía
 del espectro hadrónico de QCD, en el marco de Teoría Quiral de
