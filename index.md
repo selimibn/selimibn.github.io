@@ -1,13 +1,12 @@
 ---
-layout: page
+layout: home
 title: Acerca de mí
-permalink: /about/
 ---
 
 
 Esta es la página personal de Selim Gómez Ávila. Actualmente vivo en
-Pachuca, Hidalgo, y trabajo en el área académica de Matemáticas y
-Física de la UAEH.
+Pachuca, Hidalgo, y trabajo en el área académica de [Matemáticas y
+Física][aamyf] de la UAEH, en donde (por ahora) coordino la [Maestría en Física y Tecnología Avanzada][mafta].
 
 Mi trabajo de [investigación][scholar] está centrado en el estudio
 sistemático de extensiones del Modelo Estándar que incorporan campos
@@ -24,7 +23,7 @@ unitarización. Existe interés en el uso de este tipo de técnicas de
 teorías efectivas en el contexto de la búsqueda de materia oscura y de
 construcciones más allá del Modelo Estándar.
 
-## Intereses
+### Intereses
 
 Me interesa la divulgación, y me gusta dar charlas para un público que
 no hace ciencia. También escribo textos de divulgación de vez en
@@ -33,9 +32,9 @@ en el arte de principios del siglo pasado, o el texto sobre el fin del
 universo que escribí para [esta revista][dedalo].  *Muy
 ocasionalmente* escribo en éste blog.
 
-
-[scholar]: http://scholar.google.com.mx/citations?sortby=pubdate&amp;hl=en&amp;user=kMPe38YAAAAJ&amp;view_op=list_works
+[scholar]: https://scholar.google.com.mx/citations?user=kMPe38YAAAAJ
 [kinofb]: https://facebook.com/lacienciaenelkino
 [artxd]: http://www.redalyc.org/articulo.oa?id=41612893006
 [dedalo]: http://issuu.com/culturagto/docs/dedalo_ii
-
+[aamyf]: https://www.uaeh.edu.mx/campus/icbi/investigacion/matematicas/index.html 
+[mafta]: https://www.uaeh.edu.mx/campus/icbi/oferta/maestrias/fisica-tecnologia-avanzada/

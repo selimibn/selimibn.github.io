@@ -2,3 +2,16 @@
 ---
 
 @import "{{ site.theme }}";
+
+a {
+  color:#B91116;
+  text-decoration:none;
+}
+
+a:hover, a:focus {
+  color:#9a0e13;
+  font-weight: bold;
+}
+
+
+

@@ -1,18 +1,24 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
 title: fisica y pachucadas
 email: selim_gomez@uaeh.edu.mx
-
+logo: /assets/img/selim.jpg
 markdown: kramdown
+kramdown:
+      math_engine: katex
+      
 mathjax: true
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
  - jekyll-remote-theme
  - jekyll-relative-links
-
+ - jekyll-feed
+ 
 relative_links:
   enabled: true
   collections: true
 include:
   - about.md
 
+
+excerpt_separator: <!--more-->
